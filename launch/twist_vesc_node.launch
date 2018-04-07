@@ -1,0 +1,6 @@
+<!-- -*- mode: XML -*- -->
+<launch>
+  <!-- twist_vesc node -->
+  <node pkg="twist_vesc" type="twist_vesc_node" name="twist_vesc_node" output="screen" />
+
+</launch>
